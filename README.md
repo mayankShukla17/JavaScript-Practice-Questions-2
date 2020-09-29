@@ -31,6 +31,7 @@ The result should be in the form of comma separated values.
 arr1= ["Blue ", "Green", "Red", "Orange", "Violet", "Indigo", "Yellow "];  
 
 arr2 = ["th","st","nd","rd"]  
+
 Write a JavaScript program which can read the first array and convert that color into a statement with the help of second array.
 
 Example:-
@@ -44,7 +45,6 @@ Example:-
 3. XYZ Publishers wants to open a new division which deals with the printed book. Here is the sample data.
 
     objBooks = [  
-
         {  
             book_id: 2314,  
             title: 'My experiments with Truth',  
