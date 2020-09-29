@@ -51,14 +51,12 @@ Example:-
             author: ‘Mahatama Gandhi',  
             status: false  
         },  
-
         {  
             book_id: 7864,  
             title: 'Origin of species',  
             author: 'Charles Darwin',  
             status: false  
         },  
-
         {  
             book_id: 1524,  
                     title: 'Geetanjali',  
